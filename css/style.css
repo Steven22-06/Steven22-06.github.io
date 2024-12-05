@@ -125,7 +125,7 @@ header {
         width: 100%;
         background-color: rgba(179, 178, 178, 0.8);
         border-top: 1px solid #f8f9fa;
-        padding: 2px 0;
+        padding: 2px ;
     }
 
     .menu-checkbox:checked + .menu-toggle + .nav-menu {
@@ -139,7 +139,7 @@ header {
     }
 
     .nav-menu li {
-        margin: 2px 0;
+        margin: 2px;
     }
 
     .nav-menu a {
@@ -148,7 +148,7 @@ header {
         color: #000000; 
         background-color: transparent;
         border: none;
-        font-size: 22px;
+        font-size: 20px;
     }
 
     .nav-menu a:hover {
